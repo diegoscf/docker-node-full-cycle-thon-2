@@ -1,0 +1,23 @@
+{
+  "name": "full_cycle_thon_2.0",
+  "version": "1.0.0",
+  "description": "Maratona Full Cycle 2.0",
+  "author": "Diego Costa Figueiredo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoscf/docker-node-full-cycle-thon-2.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoscf/docker-node-full-cycle-thon-2/issues"
+  },
+  "homepage": "https://github.com/diegoscf/docker-node-full-cycle-thon-2#readme"
+}
