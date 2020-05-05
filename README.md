@@ -1,2 +1,3 @@
-# docker-node-full-cycle-thon-2
-Imagem docker criada conforme o desafio 01 da Maratona Full Cycle 2.0
+# Maratona Full Cycle 2.0
+
+Repositório criado para o acompanhamento dos desafios da Maratona Full Cycle 2.0, do Wesley Willians.
